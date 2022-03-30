@@ -172,3 +172,8 @@ margin-top: 80px;
 .embed-contain+p {
   margin-top: 80px;
   }
+
+
+.twitter-tweet {
+  width: 550px !important;
+}
